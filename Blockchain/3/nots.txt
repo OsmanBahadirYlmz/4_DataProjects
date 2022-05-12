@@ -1,0 +1,49 @@
+Hammadde üretici arayüzü
+------------------------
+
+hammade üretici id
+satıcı id
+yapılan işlem
+
+button gönder
+
+
+
+denetçi arayüzü
+-------------------
+denetçi id
+satıcı id
+yapılan işlem
+
+button gönder
+
+
+
+dağıtıcı arayüzü
+------------------
+dağıtıcı id
+satıcı id
+yapılan işlem
+
+button gönder
+
+
+
+perakende arayüzü
+-------------------
+perakendeci id
+satıcı id 
+yapılan işlem 
+
+button gönder
+
+
+
+
+
+
+müşteri sipariş arayüzü
+------------------------
+ekle sipariş tutarı. yumarta adedi*fiyat
+
+

@@ -1,0 +1,603 @@
+* Hey, Soul Sister | neo mellow | 83 | 97
+* Love The Way You Lie | detroit hip hop | 82 | 87
+* TiK ToK | dance pop | 80 | 120
+* Bad Romance | dance pop | 79 | 119
+* Just the Way You Are | pop | 78 | 109
+* Baby | canadian pop | 77 | 65
+* Dynamite | dance pop | 77 | 120
+* Secrets | dance pop | 77 | 148
+* Empire State of Mind (Part II) Broken Down | hip pop | 76 | 93
+* Only Girl (In The World) | barbadian pop | 73 | 126
+* Club Can't Handle Me (feat. David Guetta) | dance pop | 73 | 128
+* Marry You | pop | 73 | 145
+* Cooler Than Me - Single Mix | dance pop | 73 | 130
+* Telephone | dance pop | 73 | 122
+* Like A G6 | dance pop | 72 | 125
+* OMG (feat. will.i.am) | atl hip hop | 72 | 130
+* Eenie Meenie | dance pop | 71 | 121
+* The Time (Dirty Bit) | dance pop | 70 | 128
+* Alejandro | dance pop | 69 | 99
+* Your Love Is My Drug | dance pop | 69 | 120
+* Meet Me Halfway | dance pop | 68 | 130
+* Whataya Want from Me | australian pop | 66 | 186
+* Take It Off | dance pop | 66 | 125
+* Misery | pop | 65 | 103
+* All The Right Moves | dance pop | 65 | 146
+* Animal | indie pop | 65 | 148
+* Naturally | dance pop | 64 | 133
+* I Like It | dance pop | 63 | 129
+* Teenage Dream | dance pop | 63 | 120
+* California Gurls | dance pop | 62 | 125
+* 3 | dance pop | 62 | 135
+* My First Kiss - feat. Ke$ha | dance pop | 62 | 138
+* Blah Blah Blah (feat. 3OH!3) | dance pop | 62 | 120
+* Imma Be | dance pop | 62 | 92
+* Try Sleeping with a Broken Heart | hip pop | 62 | 111
+* Sexy Bitch (feat. Akon) | dance pop | 61 | 130
+* Bound To You - Burlesque Original Motion Picture Soundtrack | dance pop | 61 | 164
+* If I Had You | australian pop | 59 | 131
+* Rock That Body | dance pop | 59 | 125
+* Dog Days Are Over | art pop | 58 | 150
+* Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack | dance pop | 58 | 150
+* Doesn't Mean Anything | hip pop | 57 | 104
+* Hard | barbadian pop | 57 | 182
+* Loca | colombian pop | 56 | 112
+* You Lost Me | dance pop | 56 | 43
+* Not Myself Tonight | dance pop | 55 | 120
+* Written in the Stars (feat. Eric Turner) | dance pop | 52 | 91
+* DJ Got Us Fallin' In Love (feat. Pitbull) | atl hip hop | 52 | 120
+* Castle Walls (feat. Christina Aguilera) | atl hip hop | 49 | 80
+* Break Your Heart | dance pop | 33 | 122
+* Hello | big room | 0 | 128
+* A Thousand Years | dance pop | 81 | 139
+* Someone Like You | british soul | 80 | 135
+* Give Me Everything | dance pop | 79 | 129
+* Just the Way You Are | pop | 78 | 109
+* Rolling in the Deep | british soul | 76 | 105
+* Run the World (Girls) | dance pop | 76 | 127
+* Moves Like Jagger - Studio Recording From The Voice Performance | pop | 76 | 128
+* Love On Top | dance pop | 76 | 94
+* Grenade | pop | 75 | 110
+* Tonight Tonight | dance pop | 75 | 100
+* What the Hell | canadian pop | 74 | 150
+* Born This Way | dance pop | 73 | 124
+* Monster | chicago rap | 73 | 125
+* Marry You | pop | 73 | 145
+* Best Thing I Never Had | dance pop | 73 | 99
+* Party Rock Anthem | dance pop | 72 | 130
+* We R Who We R | dance pop | 72 | 120
+* Price Tag | australian pop | 72 | 175
+* Good Life | dance pop | 72 | 95
+* Just Cant Get Enough | dance pop | 71 | 94
+* On The Floor | dance pop | 69 | 130
+* What's My Name? | barbadian pop | 69 | 100
+* Yeah 3x | dance pop | 69 | 130
+* Without You (feat. Usher) | dance pop | 68 | 128
+* Sexy And I Know It | dance pop | 67 | 130
+* The Edge Of Glory | dance pop | 67 | 128
+* E.T. | dance pop | 66 | 152
+* Till the World Ends | dance pop | 65 | 132
+* I Wanna Go | dance pop | 64 | 130
+* Blow | dance pop | 64 | 120
+* You And I | dance pop | 64 | 127
+* Judas | dance pop | 63 | 131
+* Tonight (I'm Fuckin' You) | dance pop | 63 | 126
+* Please Don't Go | dance pop | 63 | 120
+* We Found Love | barbadian pop | 61 | 128
+* Marry The Night | dance pop | 61 | 131
+* 1+1 | dance pop | 60 | 63
+* Hold It Against Me | dance pop | 59 | 133
+* I'm Into You | dance pop | 59 | 84
+* Papi | dance pop | 58 | 120
+* Cheers (Drink To That) | barbadian pop | 58 | 80
+* S&M Remix | barbadian pop | 54 | 128
+* Written in the Stars (feat. Eric Turner) | dance pop | 52 | 91
+* Jar of Hearts | dance pop | 50 | 75
+* Castle Walls (feat. Christina Aguilera) | atl hip hop | 49 | 80
+* Turning Page | acoustic pop | 46 | 125
+* Super Bass | dance pop | 38 | 127
+* Raise Your Glass | dance pop | 38 | 122
+* Invading My Mind | dance pop | 31 | 129
+* Moment 4 Life - Album Version (Edited) | dance pop | 28 | 130
+* Last Friday Night (T.G.I.F.) | dance pop | 27 | 126
+* Firework | dance pop | 25 | 124
+* Muny - Album Version (Edited) | dance pop | 7 | 98
+* Titanium (feat. Sia) | dance pop | 80 | 126
+* Locked Out of Heaven | pop | 79 | 144
+* Paradise | permanent wave | 79 | 140
+* Payphone | pop | 79 | 110
+* What Makes You Beautiful | boy band | 78 | 125
+* I Knew You Were Trouble. | pop | 77 | 77
+* Call Me Maybe | canadian pop | 76 | 120
+* Love You Like A Love Song | dance pop | 76 | 117
+* Set Fire to the Rain | british soul | 76 | 108
+* We Are Never Ever Getting Back Together | pop | 75 | 86
+* Stronger (What Doesn't Kill You) | dance pop | 74 | 116
+* Try | dance pop | 74 | 104
+* Starships | dance pop | 73 | 125
+* One More Night | pop | 73 | 93
+* Good Time | pop | 73 | 126
+* Glad You Came | boy band | 72 | 127
+* Beauty And A Beat | canadian pop | 72 | 128
+* International Love | dance pop | 72 | 120
+* Some Nights | baroque pop | 72 | 108
+* Boyfriend | canadian pop | 71 | 97
+* Part Of Me | dance pop | 71 | 130
+* Domino | australian pop | 69 | 127
+* Where Have You Been | barbadian pop | 68 | 128
+* Wide Awake | dance pop | 68 | 160
+* The One That Got Away | dance pop | 67 | 134
+* Dance Again | dance pop | 66 | 128
+* Turn Up the Music | dance pop | 65 | 130
+* Lights - Single Version | dance pop | 65 | 120
+* We Are Young (feat. Janelle Monáe) | baroque pop | 63 | 184
+* Diamonds | barbadian pop | 61 | 92
+* Don't Stop the Party (feat. TJR) | dance pop | 59 | 127
+* You Da One | barbadian pop | 57 | 127
+* Stereo Hearts (feat. Adam Levine) | dance pop | 54 | 90
+* It Will Rain | pop | 38 | 150
+* Blow Me (One Last Kiss) | dance pop | 0 | 114
+* Underneath the Tree | dance pop | 88 | 160
+* Wake Me Up | big room | 85 | 124
+* Story of My Life | boy band | 81 | 121
+* Just Give Me a Reason (feat. Nate Ruess) | dance pop | 81 | 95
+* Hall of Fame | celtic rock | 80 | 85
+* Roar | dance pop | 78 | 180
+* We Can't Stop | dance pop | 78 | 80
+* Don't You Worry Child - Radio Edit | big room | 78 | 129
+* Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit | electro | 77 | 116
+* Wrecking Ball | dance pop | 77 | 120
+* Impossible | pop | 77 | 170
+* Blurred Lines | dance pop | 76 | 120
+* Heart Attack | dance pop | 76 | 174
+* We Are Never Ever Getting Back Together | pop | 75 | 86
+* Die Young | dance pop | 75 | 128
+* Clarity | complextro | 75 | 128
+* Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix | art pop | 74 | 126
+* Under Control | dance pop | 74 | 126
+* Everybody Talks | indie pop | 74 | 155
+* Hold On, We're Going Home | canadian hip hop | 73 | 100
+* Best Song Ever | boy band | 73 | 118
+* Kiss You | boy band | 73 | 90
+* Sweet Nothing (feat. Florence Welch) | dance pop | 72 | 128
+* Lose Yourself to Dance | electro | 72 | 100
+* Work Bitch | dance pop | 71 | 128
+* Brave | acoustic pop | 71 | 185
+* Can't Hold Us (feat. Ray Dalton) | dance pop | 70 | 146
+* Feel This Moment (feat. Christina Aguilera) | dance pop | 70 | 136
+* Beneath Your Beautiful | pop | 70 | 84
+* Let Me Love You (Until You Learn To Love Yourself) | dance pop | 70 | 125
+* Thrift Shop (feat. Wanz) | dance pop | 69 | 95
+* If I Lose Myself - Alesso vs OneRepublic | dance pop | 69 | 126
+* The Way | dance pop | 68 | 82
+* Suit & Tie | dance pop | 68 | 102
+* #thatPOWER | dance pop | 68 | 128
+* I Love It (feat. Charli XCX) | candy pop | 67 | 126
+* Play Hard (feat. Ne-Yo & Akon) - New Edit | dance pop | 67 | 130
+* Daylight | pop | 66 | 120
+* Love Somebody | pop | 65 | 120
+* A Little Party Never Killed Nobody (All We Got) | dance pop | 65 | 130
+* Move | dance pop | 63 | 121
+* Walks Like Rihanna | boy band | 62 | 126
+* Rock N Roll | canadian pop | 61 | 184
+* Heartbreaker | canadian pop | 61 | 105
+* Mirrors - Radio Edit | dance pop | 60 | 77
+* Next To Me | dance pop | 60 | 95
+* Made In The USA | dance pop | 60 | 87
+* Clown | dance pop | 60 | 130
+* Girl On Fire (feat. Nicki Minaj) - Inferno Version | hip pop | 59 | 93
+* TKO | dance pop | 58 | 138
+* Come & Get It | dance pop | 57 | 80
+* Live It Up | dance pop | 57 | 128
+* We Own The Night | boy band | 56 | 104
+* Atlas - From The Hunger Games: Catching Fire Soundtrack | permanent wave | 55 | 136
+* What About Love | dance pop | 54 | 100
+* Take Back the Night | dance pop | 54 | 107
+* Applause | dance pop | 52 | 140
+* Anything Could Happen | dance pop | 52 | 103
+* Finally Found You | dance pop | 52 | 128
+* Pom Poms | boy band | 52 | 148
+* #Beautiful | dance pop | 51 | 107
+* How Ya Doin'? (feat. Missy Elliott) | dance pop | 50 | 201
+* Crazy Kids (feat. will.i.am) | dance pop | 46 | 128
+* Ooh La La (from "The Smurfs 2") | dance pop | 45 | 128
+* People Like Us | dance pop | 45 | 128
+* Overdose | dance pop | 43 | 107
+* Right Now - Dyro Radio Edit | barbadian pop | 42 | 130
+* Give It 2 U | dance pop | 41 | 127
+* Foolish Games | alaska indie | 36 | 132
+* Outta Nowhere (feat. Danny Mercer) | dance pop | 35 | 95
+* Freak | atl hip hop | 28 | 104
+* All of Me | neo mellow | 86 | 120
+* Stay With Me | pop | 85 | 84
+* Summer | dance pop | 80 | 128
+* Happy - From "Despicable Me 2" | dance pop | 79 | 160
+* Rude | pop | 79 | 144
+* Shake It Off | pop | 78 | 160
+* Dark Horse | dance pop | 78 | 132
+* Hey Brother | big room | 78 | 125
+* Maps | pop | 78 | 120
+* Treasure | pop | 77 | 116
+* Let Her Go | folk-pop | 77 | 75
+* Problem | dance pop | 75 | 103
+* Pompeii | metropopolis | 73 | 127
+* Team | art pop | 73 | 100
+* Love Me Again | pop | 73 | 126
+* Latch | house | 72 | 122
+* Adore You | dance pop | 72 | 120
+* Love Never Felt So Good | pop | 71 | 118
+* Burn | dance pop | 71 | 87
+* She Looks So Perfect | boy band | 71 | 160
+* Fancy | australian hip hop | 70 | 95
+* Talk Dirty (feat. 2 Chainz) | dance pop | 68 | 100
+* Gorilla | pop | 68 | 140
+* human | dance pop | 68 | 144
+* Young Girls | pop | 67 | 126
+* Wiggle (feat. Snoop Dogg) | dance pop | 67 | 82
+* Love Runs Out | dance pop | 66 | 120
+* This Is How We Do | dance pop | 66 | 96
+* Mmm Yeah (feat. Pitbull) | dance pop | 65 | 126
+* A Little Party Never Killed Nobody (All We Got) | dance pop | 65 | 130
+* #SELFIE | electropop | 65 | 128
+* Partition | dance pop | 65 | 186
+* Birthday | dance pop | 65 | 126
+* G.U.Y. | dance pop | 65 | 110
+* Stay The Night - Featuring Hayley Williams Of Paramore | complextro | 64 | 128
+* Let It Go - From "Frozen / Single Version | dance pop | 63 | 140
+* Wings | neo mellow | 62 | 83
+* Can't Remember to Forget You (feat. Rihanna) | colombian pop | 62 | 138
+* Shot Me Down (feat. Skylar Grey) - Radio Edit | dance pop | 61 | 192
+* Say Something | neo mellow | 61 | 138
+* A Sky Full of Stars | permanent wave | 60 | 125
+* Come Get It Bae | dance pop | 59 | 120
+* Chandelier | australian dance | 56 | 174
+* XO | dance pop | 56 | 170
+* We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] | dance pop | 56 | 125
+* Not About Angels | neo mellow | 56 | 116
+* Drunk in Love | dance pop | 52 | 140
+* Anaconda | dance pop | 50 | 130
+* Boom Clap - From the Motion Picture Das Schicksal ist ein mieser Verräter | candy pop | 50 | 92
+* La La La (Brasil 2014) (feat. Carlinhos Brown) | colombian pop | 50 | 128
+* Tee Shirt - Soundtrack Version | neo mellow | 49 | 76
+* Words as Weapons | neo mellow | 44 | 120
+* You're Mine (Eternal) | dance pop | 38 | 149
+* Sheezus | dance pop | 37 | 130
+* Cannonball | hollywood | 37 | 92
+* It's On Again - Main Soundtrack | hip pop | 30 | 110
+* I Luh Ya Papi | dance pop | 28 | 96
+* Not a Bad Thing | dance pop | 0 | 86
+* Thinking out Loud | pop | 84 | 79
+* I'm Not The Only One | pop | 84 | 82
+* The Hills | canadian contemporary r&b | 84 | 113
+* Love Yourself | canadian pop | 83 | 100
+* Uptown Funk | dance pop | 82 | 115
+* Take Me To Church | irish singer-songwriter | 81 | 129
+* Sugar | pop | 81 | 120
+* Sorry | canadian pop | 81 | 100
+* FourFiveSeconds | barbadian pop | 80 | 206
+* Love Me Like You Do - From "Fifty Shades Of Grey" | dance pop | 79 | 190
+* Earned It (Fifty Shades Of Grey) - From The "Fifty Shades Of Grey" Soundtrack | canadian contemporary r&b | 79 | 120
+* What Do You Mean? | canadian pop | 79 | 125
+* Stitches | canadian pop | 78 | 150
+* Want to Want Me | dance pop | 77 | 114
+* My House | dance pop | 77 | 94
+* Waves - Robin Schulz Radio Edit | tropical house | 77 | 120
+* Night Changes | boy band | 77 | 120
+* How Deep Is Your Love | dance pop | 77 | 122
+* Never Forget You | dance pop | 77 | 146
+* Love Me Harder | dance pop | 76 | 99
+* Animals | pop | 76 | 190
+* Blame | dance pop | 76 | 128
+* Worth It | dance pop | 75 | 100
+* Break Free | dance pop | 75 | 130
+* Don't | pop | 74 | 95
+* Elastic Heart | australian dance | 73 | 130
+* Rather Be (feat. Jess Glynne) | dance pop | 73 | 121
+* Hello | british soul | 73 | 158
+* Dear Future Husband | dance pop | 72 | 79
+* 43776 | dance pop | 72 | 136
+* The Heart Wants What It Wants | dance pop | 72 | 83
+* Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) | dance pop | 72 | 86
+* Genie In a Bottle | dance pop | 72 | 176
+* Company | canadian pop | 72 | 95
+* Sing | pop | 71 | 120
+* Jealous - Remix | dance pop | 70 | 93
+* Really Don't Care | dance pop | 70 | 121
+* Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally) | dance pop | 70 | 110
+* Only Love Can Hurt Like This | british soul | 69 | 91
+* Heartbeat Song | dance pop | 69 | 149
+* Up | dance pop | 69 | 115
+* Trumpets | dance pop | 69 | 82
+* Runnin' (Lose It All) | tropical house | 69 | 139
+* Same Old Love | dance pop | 69 | 98
+* I Want You To Know | complextro | 68 | 130
+* Lips Are Movin | dance pop | 68 | 139
+* I'll Show You | canadian pop | 68 | 192
+* Here | canadian contemporary r&b | 68 | 120
+* I Lived | dance pop | 67 | 120
+* Fireball (feat. John Ryan) | dance pop | 67 | 123
+* Easy Love | dance pop | 67 | 124
+* The Feeling | canadian pop | 67 | 127
+* I Really Like You | canadian pop | 66 | 122
+* BO$$ | dance pop | 66 | 103
+* Sugar | pop | 66 | 120
+* Focus | dance pop | 66 | 100
+* All About That Bass | dance pop | 65 | 134
+* On My Mind | dance pop | 65 | 155
+* Love Me Like You | dance pop | 65 | 106
+* Broken Arrows | big room | 65 | 116
+* Booty | dance pop | 64 | 129
+* What Do You Mean? - Acoustic | canadian pop | 64 | 125
+* Mark My Words | canadian pop | 63 | 114
+* Lay It All on Me | dance pop | 62 | 123
+* American Oxygen | barbadian pop | 61 | 78
+* Bang Bang | australian pop | 61 | 150
+* Reality - Radio Edit | belgian edm | 61 | 122
+* Alive | australian dance | 61 | 100
+* Sugar (feat. Francesco Yates) | dance pop | 60 | 123
+* Been You | canadian pop | 60 | 113
+* Prayer in C - Robin Schulz Radio Edit | french indie pop | 58 | 123
+* See You Again (feat. Charlie Puth) | hip hop | 56 | 80
+* Heroes (we could be) | big room | 56 | 126
+* Feel The Light - From The "Home" Soundtrack | dance pop | 55 | 156
+* Perfect | boy band | 55 | 100
+* Ghosttown | dance pop | 54 | 79
+* Bang My Head (feat. Sia & Fetty Wap) | dance pop | 54 | 108
+* Bloodstream | pop | 52 | 89
+* Living For Love | dance pop | 52 | 123
+* Baby Don't Lie | dance pop | 52 | 100
+* Don't Be so Hard on Yourself | dance pop | 52 | 120
+* Steal My Girl | boy band | 51 | 77
+* Celebrate (From the Original Motion Picture "Penguins of Madagascar") | dance pop | 50 | 127
+* We Are Here | hip pop | 49 | 93
+* St Jude | art pop | 47 | 117
+* Yesterday (feat. Bebe Rexha) | dance pop | 46 | 128
+* Time of Our Lives | dance pop | 45 | 124
+* Sparks | dance pop | 44 | 122
+* Mr. Put It Down | dance pop | 42 | 128
+* Legendary Lovers | dance pop | 41 | 126
+* Spark The Fire | dance pop | 39 | 120
+* Run Run Run | dance pop | 36 | 112
+* Let Me Be Your Lover | dance pop | 34 | 112
+* Dangerous | dance pop | 18 | 109
+* L.A.LOVE (la la) | dance pop | 0 | 202
+* The Hills | canadian contemporary r&b | 84 | 113
+* Love Yourself | canadian pop | 83 | 100
+* Cake By The Ocean | dance pop | 81 | 119
+* Don't Let Me Down | electropop | 81 | 160
+* In the Name of Love | big room | 81 | 134
+* Into You | dance pop | 80 | 108
+* This Is What You Came For | dance pop | 80 | 124
+* Million Reasons | dance pop | 80 | 130
+* Needed Me | barbadian pop | 80 | 111
+* 7 Years | danish pop | 80 | 120
+* CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS") | dance pop | 79 | 113
+* Work from Home (feat. Ty Dolla $ign) | dance pop | 79 | 105
+* Scars To Your Beautiful | canadian contemporary r&b | 79 | 97
+* Like I'm Gonna Lose You (feat. John Legend) | dance pop | 79 | 108
+* Work | barbadian pop | 78 | 92
+* Stitches | canadian pop | 78 | 150
+* Me, Myself & I | hip hop | 78 | 112
+* I Took A Pill In Ibiza - Seeb Remix | dance pop | 78 | 102
+* Dangerous Woman | dance pop | 78 | 134
+* Starving | dance pop | 78 | 100
+* Shout Out to My Ex | dance pop | 77 | 126
+* Electric Love | electropop | 76 | 120
+* Confident | dance pop | 75 | 130
+* Too Good | canadian hip hop | 74 | 118
+* Roses | electropop | 74 | 100
+* Cold Water (feat. Justin Bieber & MØ) | dance pop | 73 | 93
+* Me Too | dance pop | 73 | 124
+* Light It Up (feat. Nyla & Fuse ODG) [Remix] | dance pop | 73 | 108
+* Ain't Your Mama | dance pop | 72 | 120
+* Close | dance pop | 72 | 124
+* Toothbrush | dance pop | 72 | 105
+* All We Know | electropop | 72 | 90
+* Final Song | dance pop | 72 | 105
+* Company | canadian pop | 72 | 95
+* Hands To Myself | dance pop | 71 | 111
+* All I Ask | british soul | 71 | 142
+* Just Like Fire (From the Original Motion Picture "Alice Through The Looking Glass") | dance pop | 71 | 163
+* NO | dance pop | 70 | 92
+* Kill Em With Kindness | dance pop | 70 | 120
+* Cool Girl | dance pop | 69 | 102
+* Runnin' (Lose It All) | tropical house | 69 | 139
+* Here | canadian contemporary r&b | 68 | 120
+* Perfect Illusion | dance pop | 67 | 125
+* PILLOWTALK | dance pop | 66 | 125
+* Out Of The Woods | pop | 66 | 92
+* Rise | dance pop | 66 | 101
+* Wherever I Go | dance pop | 66 | 100
+* Body Say | dance pop | 65 | 87
+* Don't Be A Fool | canadian pop | 65 | 175
+* LIKE I WOULD | dance pop | 65 | 113
+* Cheap Thrills | australian dance | 64 | 90
+* I Got You | dance pop | 64 | 98
+* Run Away With Me | canadian pop | 63 | 119
+* Cruel (feat. ZAYN) | dance pop | 63 | 110
+* Send My Love (To Your New Lover) | british soul | 61 | 164
+* WTF (Where They From) | dance pop | 58 | 120
+* Desire | dance pop | 58 | 126
+* When We Were Young | british soul | 58 | 144
+* I Know What You Did Last Summer | canadian pop | 57 | 114
+* Wish That You Were Here - From Miss Peregrines Home for Peculiar Children Original Motion Picture | art pop | 57 | 94
+* Hurts | dance pop | 57 | 106
+* Change | dance pop | 54 | 82
+* Make Me... (feat. G-Eazy) | dance pop | 53 | 123
+* Keeping Your Head Up | neo mellow | 52 | 122
+* True Colors | complextro | 51 | 126
+* Make Me Like You | dance pop | 50 | 118
+* Champagne Problems | dance pop | 50 | 108
+* Blown | dance pop | 48 | 130
+* Start | neo mellow | 47 | 110
+* Pep Rally | dance pop | 47 | 90
+* Higher | canadian pop | 46 | 114
+* Invitation | dance pop | 44 | 112
+* One Call Away (feat. Tyga) - Remix | dance pop | 41 | 91
+* Beautiful Birds (feat. Birdy) | folk-pop | 36 | 86
+* Little Lies | dance pop | 36 | 124
+* Do You Wanna Come Over? | dance pop | 34 | 121
+* BURNITUP! | dance pop | 31 | 123
+* Picky - Remix | latin | 29 | 186
+* Behind Your Back | canadian latin | 18 | 98
+* Million Years Ago | british soul | 0 | 0
+* Shape of You | pop | 87 | 96
+* Closer | electropop | 86 | 95
+* Starboy | canadian contemporary r&b | 85 | 186
+* Treat You Better | canadian pop | 84 | 83
+* That's What I Like | pop | 83 | 134
+* Let Me Love You | electronic trap | 82 | 100
+* I Feel It Coming | canadian contemporary r&b | 81 | 93
+* Mercy | canadian pop | 81 | 148
+* Side To Side | dance pop | 80 | 159
+* Stay | complextro | 80 | 102
+* It Ain't Me (with Selena Gomez) | edm | 79 | 100
+* Malibu | dance pop | 78 | 140
+* Something Just Like This | electropop | 78 | 103
+* Rockabye (feat. Sean Paul & Anne-Marie) | dance pop | 78 | 102
+* I Dont Wanna Live Forever (Fifty Shades Darker) | dance pop | 78 | 118
+* My Way | dance pop | 78 | 120
+* I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne) | dance pop | 77 | 81
+* Praying | dance pop | 77 | 73
+* Despacito - Remix | latin | 76 | 178
+* The Greatest | australian dance | 76 | 192
+* There for You | big room | 76 | 106
+* Paris | electropop | 76 | 100
+* Crying in the Club | dance pop | 75 | 85
+* Mama | dance pop | 75 | 104
+* Slide (feat. Frank Ocean & Migos) | dance pop | 75 | 104
+* Swish Swish | dance pop | 73 | 120
+* Chained To The Rhythm | dance pop | 72 | 190
+* Cold (feat. Future) | pop | 72 | 100
+* Love | art pop | 72 | 99
+* Reggaetón Lento (Remix) | boy band | 71 | 94
+* All I Ask | british soul | 71 | 142
+* First Time | edm | 71 | 90
+* The Cure | dance pop | 71 | 100
+* How Far I'll Go - From "Moana" | canadian contemporary r&b | 71 | 181
+* Bodak Yellow | pop | 70 | 125
+* Rich Love (with Seeb) | dance pop | 70 | 105
+* Tired | electro house | 70 | 124
+* Came Here for Love | dance pop | 70 | 125
+* 24K Magic | pop | 69 | 107
+* Strip That Down (feat. Quavo) | dance pop | 69 | 106
+* Cut To The Feeling | canadian pop | 69 | 115
+* OK - Spotify Version | dance pop | 69 | 122
+* Bon appétit | dance pop | 68 | 106
+* Summer Bummer (feat. A$AP Rocky & Playboi Carti) | art pop | 67 | 135
+* Get Low (with Liam Payne) | complextro | 66 | 108
+* Kissing Strangers | dance pop | 66 | 120
+* Slow Hands | dance pop | 64 | 86
+* Younger Now | dance pop | 62 | 122
+* Body Moves | dance pop | 62 | 102
+* Reality (feat. Janieck Devy) - Radio Edit | belgian edm | 59 | 122
+* Angel | dance pop | 59 | 124
+* Touch (feat. Kid Ink) | dance pop | 59 | 102
+* We Don't Talk Anymore - DROELOE Remix | dance pop | 59 | 100
+* Love Incredible (feat. Camila Cabello) | downtempo | 59 | 167
+* No Vacancy (with Sebastián Yatra) | dance pop | 57 | 100
+* Rich Boy | big room | 55 | 110
+* Lust for Life (with The Weeknd) | art pop | 54 | 100
+* Greenlight (feat. Flo Rida & LunchMoney Lewis) | dance pop | 54 | 115
+* Influence | dance pop | 54 | 105
+* Remember I Told You | dance pop | 53 | 113
+* Messin' Around | dance pop | 51 | 158
+* Water Under the Bridge | british soul | 49 | 95
+* Free Me | australian dance | 44 | 87
+* Kissing Strangers - Remix | dance pop | 43 | 120
+* A L I E N S | permanent wave | 41 | 148
+* One Kiss (with Dua Lipa) | dance pop | 86 | 124
+* Havana (feat. Young Thug) | dance pop | 85 | 105
+* I Like It | pop | 85 | 136
+* New Rules | dance pop | 84 | 116
+* There's Nothing Holdin' Me Back | canadian pop | 84 | 122
+* no tears left to cry | dance pop | 84 | 122
+* IDGAF | dance pop | 84 | 97
+* In My Blood | canadian pop | 83 | 140
+* Wolves | dance pop | 83 | 125
+* Dusk Till Dawn - Radio Edit | dance pop | 83 | 180
+* Attention | dance pop | 83 | 100
+* Electricity (with Dua Lipa) | edm | 82 | 118
+* Love On The Brain | barbadian pop | 82 | 172
+* Let Me Go (with Alesso, Florida Georgia Line & watt) | dance pop | 82 | 103
+* Silence | brostep | 82 | 142
+* Sorry Not Sorry | dance pop | 81 | 144
+* Shallow - Radio Edit | dance pop | 80 | 96
+* These Days | dance pop | 80 | 92
+* What Lovers Do (feat. SZA) | pop | 79 | 110
+* Finesse - Remix; feat. Cardi B | pop | 78 | 105
+* Perfect Duet (Ed Sheeran & Beyoncé) | pop | 78 | 95
+* Bad At Love | dance pop | 78 | 118
+* Him & I (with Halsey) | hip hop | 78 | 88
+* Friends (with BloodPop®) | canadian pop | 77 | 105
+* Wild Thoughts (feat. Rihanna & Bryson Tiller) | dance pop | 76 | 98
+* My My My! | dance pop | 76 | 103
+* Capital Letters | dance pop | 76 | 100
+* Sick Boy | electropop | 76 | 90
+* Tequila | contemporary country | 76 | 86
+* Look What You Made Me Do | pop | 75 | 128
+* Youth (feat. Khalid) | canadian pop | 75 | 100
+* Bad Liar | dance pop | 75 | 121
+* Anywhere | dance pop | 74 | 107
+* Say Something | dance pop | 74 | 97
+* Chun-Li | dance pop | 73 | 129
+* Sign of the Times | dance pop | 72 | 120
+* Familiar | dance pop | 72 | 93
+* Let Me | dance pop | 72 | 168
+* Supernova | dance pop | 72 | 140
+* Nervous | canadian pop | 71 | 122
+* First Time | edm | 71 | 90
+* End Game | pop | 70 | 159
+* Mi Gente (feat. Beyoncé) | latin | 68 | 105
+* Lemon | hip hop | 68 | 120
+* For You (With Rita Ora) | dance pop | 67 | 113
+* Want To | dance pop | 67 | 92
+* What I Need (feat. Kehlani) | dance pop | 67 | 104
+* Wait | pop | 67 | 126
+* What About Us | dance pop | 66 | 114
+* Kissing Strangers | dance pop | 66 | 120
+* 2U (feat. Justin Bieber) | dance pop | 65 | 145
+* Walk On Water (feat. Beyoncé) | detroit hip hop | 65 | 82
+* This Town | dance pop | 64 | 112
+* Girls (feat. Cardi B, Bebe Rexha & Charli XCX) | dance pop | 64 | 94
+* MOVE TO MIAMI | dance pop | 64 | 100
+* Miss You (with Major Lazer & Tory Lanez) | downtempo | 64 | 100
+* Filthy | dance pop | 62 | 97
+* Never Be the Same - Radio Edit | dance pop | 57 | 130
+* Ferrari | dance pop | 57 | 77
+* Supplies | dance pop | 57 | 120
+* Boom Boom | moroccan pop | 53 | 110
+* ...Ready For It? - BloodPop® Remix | pop | 52 | 160
+* Drip (feat. Migos) | pop | 45 | 130
+* Tell Me You Love Me - NOTD Remix | dance pop | 44 | 102
+* Memories | pop | 99 | 91
+* Lose You To Love Me | dance pop | 97 | 102
+* Someone You Loved | pop | 96 | 110
+* Señorita | canadian pop | 95 | 117
+* How Do You Sleep? | pop | 93 | 111
+* South of the Border (feat. Camila Cabello & Cardi B) | pop | 92 | 98
+* Trampoline (with ZAYN) | electropop | 92 | 127
+* Happier | brostep | 90 | 100
+* Truth Hurts | escape room | 90 | 158
+* Good as Hell (feat. Ariana Grande) - Remix | escape room | 90 | 96
+* Higher Love | edm | 88 | 104
+* Only Human | boy band | 87 | 94
+* Beautiful People (feat. Khalid) | pop | 86 | 93
+* Sucker | boy band | 86 | 138
+* Don't Call Me Up | dance pop | 86 | 99
+* I Don't Care (with Justin Bieber) | pop | 85 | 102
+* Talk (feat. Disclosure) | alternative r&b | 84 | 136
+* Giant (with Rag'n'Bone Man) | dance pop | 84 | 122
+* Takeaway | electropop | 83 | 100
+* All Around The World (La La La) | big room | 82 | 125
+* Girls Like You (feat. Cardi B) | pop | 81 | 125
+* Call You Mine | electropop | 81 | 104
+* No Guidance (feat. Drake) | dance pop | 81 | 93
+* Antisocial (with Travis Scott) | pop | 78 | 152
+* Taki Taki (feat. Selena Gomez, Ozuna & Cardi B) | electronic trap | 77 | 96
+* Con Calma - Remix | latin | 76 | 94
+* Find U Again (feat. Camila Cabello) | dance pop | 75 | 104
+* Cross Me (feat. Chance the Rapper & PnB Rock) | pop | 75 | 95
+* No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo) | dance pop | 70 | 136
+* Nothing Breaks Like a Heart (feat. Miley Cyrus) | dance pop | 69 | 114
+* Kills You Slowly | electropop | 67 | 150

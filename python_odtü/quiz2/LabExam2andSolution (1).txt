@@ -1,0 +1,63 @@
+In this lab, we will perform simple string manipulation: 
+
+1. You will first read 3 username and password pairs, one by one. Let us call the usernames u1, u2, u3 and the passwords p1, p2 and p3. To be more specific, you will read them exactly in this order: u1, p1, u2, p2, u3, p3. Note that p1 is u1's password, p2 is u2's and p3 is u3's.
+
+2. Then, you will read a username (let us call this uX) which is equal to one of the usernames (u1, u2, u3) you have read in the first step. 
+
+3. Afterwards, you are expected to create a new password using the selected username (uX) and its password (pX) as follows:
+
+    - The first 4 characters ([0,3]) of the new password should be the last 4 characters of the corresponding username (uX).
+
+    - The indices 4,5,6,7,8 of the new password should be the last 5 characters of the password (pX) in *reverse* order.
+
+    - Starting from the 9th index, the new password should have the string representation of the square of the length of the password pX mod 100 (i.e., len(pX)**2 % 100) -- don't use scientific notation for the numerical value.
+
+4. Print the new password on screen.
+
+**Hint 1**: Since strings are immutable, you must create a new string.
+
+**Hint 2**: You must use a dictionary to store username-password pairs, where each username can be considered as a key and the username's password as a value.
+
+
+**SAMPLE I/O:**
+Please ignore the comments in the following sample.
+
+    Input:
+		ceng240adm # username1
+		aFoo2uoda # password1
+		math120adm # username2
+		eeBe8Oliseiqu1 # password2
+		phys106adm # username3
+		xeeYoom7aiche # password3
+		ceng240adm  # selected username
+    Output:
+		0admadou281
+
+'''
+Lab Exam 2 Solution
+'''
+
+d = dict()
+
+# Read user 1
+username = input()
+password = input()
+d[username] = password
+
+# Read user 2
+username = input()
+password = input()
+d[username] = password
+
+# Read user 3
+username = input()
+password = input()
+d[username] = password
+
+# Select a user
+user = input()
+passw = d[user]
+
+# Update his password
+result = user[-4:] + passw[:-6:-1] + str(len(passw)**2 % 100)
+print(result)

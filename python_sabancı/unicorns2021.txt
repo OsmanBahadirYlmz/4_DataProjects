@@ -1,0 +1,7 @@
+company1;$2;1.1.2;turkey;ankara;oby
+company2;$3;1.1.2;turkey;izmir;oby
+company3;$4;1.1.2;turkey;ankara;oby
+company4;$5;1.1.2;turkey;izmir;oby
+company5;$6;1.1.2;turkey;istanbul;oby
+company6;$7;1.1.2;turkey;istanbul;oby
+company7;$8;1.1.2;turkey;adana;oby

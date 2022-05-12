@@ -1,0 +1,8 @@
+Apply exploratory data analysis steps and check data quality (missing value check, outier analysis)
+
+
+Using the dataset build a regression model which predicts Diamond price. 
+
+Report your model performance metrics for the test data set (rmse and r-square)
+
+Upload your output as a jupyter notebook file and present your RMSE and r-square values within the notebook.

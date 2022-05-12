@@ -1,0 +1,96 @@
+You are working for a flower shop and your company decided to open an online shop due to the Covid-19 pandemic. Your job is to implement a part of the online shopping software. Specifically;
+
+- You will read 3 numbers one by one. First one will encode the flower name, second one will encode the color of the flower(s), third one will encode the amount of flowers.
+
+- Encoding for the flower name is as such:
+
+          • If the most significant digit (the leftmost digit) of the first number is 7, the requested flower is Rose,
+          • if the most significant digit (the leftmost digit) of the first number is 8, the requested flower is Tulip,
+          • otherwise the requested flower is Orchid.
+
+- Encoding for the color is as such:
+
+          • If the least significant digit (the rightmost digit) of the second number is 0, 1, 2 or 3 the color is White,
+          • if the least significant digit (the rightmost digit) of the second number is 4, 5 or 6 the color is Pink,
+          • if the least significant digit (the rightmost digit) of the second number is 7, 8 or 9 the color is Red.
+
+- There is no actual encoding for the number of flowers. The third number will directly be the number of flowers ordered by the customer. However, there are such restrictions about flower amounts:
+
+          • At most 100 Roses can be ordered at once. If more than 100 Roses are requested, the order is Invalid.
+          • At most 50 Tulips can be ordered at once. If more than 50 Tulips are requested, the order is Invalid.
+          • At most 30 Orchids can be ordered at once. If more than 30 Orchids are requested, the order is Invalid.
+
+- At the end, you will print the order information as such:
+
+          • If the order is invalid, you will print "Invalid!"
+          • If the order is valid, you will print flower name, flower color and the amount without spaces. For example for 10 pink roses you will print "RosePink10". (Yes, flower name and the color will start with uppercase letters.)
+
+Hint 1: You may need to convert the type of the input strings to integers for some operations. (And some of them may needed to be converted back to string type at the end.)
+Hint 2: The most significant digit of 1234 is 1, the least significant digit of 1234 is 4. Similarly, for 781, 7 is the most significant and 1 is the least significant digit. 
+Example I/O:
+
+Input1:
+7
+4
+90
+
+Output1:
+RosePink90
+
+Input2:
+85012012
+23
+40
+
+Output2:
+TulipWhite40
+
+Input3:
+13
+301
+40
+
+Output3:
+Invalid!
+
+* Input3 is invalid since it requests 40 white orchids but maximum permitted amount for orchids is 30.
+
+'''
+Lab Exam 3 Solution
+'''
+
+namenumber = input()
+colornumber = input()
+amountnumber = input()
+# detemining color
+if int(colornumber[-1]) in [0, 1, 2 ,3]:
+    color = 'White'
+elif int(colornumber[-1]) in [4, 5, 6]:
+    color = 'Pink'
+else:
+    color = 'Red'
+# determining name
+if int(namenumber[0]) == 7:
+    name = 'Rose'
+elif int(namenumber[0]) == 8:
+    name = 'Tulip'
+else:
+    name = 'Orchid'
+# Now it's time to print things.
+if name == 'Rose' and int(amountnumber) > 100:
+    print('Invalid!')
+elif name == 'Tulip' and int(amountnumber) > 50:
+    print('Invalid!')
+elif name == 'Orchid' and int(amountnumber) > 30:
+    print('Invalid!')
+else:
+    print(name+color+amountnumber)
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+motor sürme 
+pwm le sürme
+test okuma 
+
+
+led yakma

@@ -1,0 +1,63 @@
+Linear regression R2 value :
+0.9162149017191423
+Root Mean Square Error:
+1144.2528708631814
+
+-------------------------------------
+2nd degree Polynomial regression R2 value
+0.962728051783242
+
+Root Mean Square Error:
+747.2747332233201
+
+with only test values-
+2nd degree Polynomial regression R2 value
+0.9644041555033288
+Root Mean Square Error:
+
+752.9932810233374
+3
+-------------------------------------
+(without test train split)
+3rd degree Polynomial regression R2 value
+0.9760914007521789
+Root Mean Square Error:
+608.9162404005526
+
+(with test train split)
+very bad results
+
+-------------------------------------
+
+4rd degree Polynomial regression R2 value
+-6446968799939048.0
+Root Mean Square Error:
+320456610496.01215
+
+
+
+
+-------------------------------------
+SVR R2 value
+0.9772832859543575
+Root Mean Square Error:
+5608.262618814243
+
+-------------------------------------
+(with all values)
+Decision Tree R2 value:
+0.9913693256455055
+
+(with only test values)
+Decision Tree R2 value with only test inputs:
+0.9719968838195622
+Root Mean Square Error:
+462.96
+
+-------------------------------------
+Random Forest R2 value:
+0.9862762397066303
+Random Forest R2 value with only test input:
+0.9772586947702333
+Root Mean Square Error:
+5620.557780016719

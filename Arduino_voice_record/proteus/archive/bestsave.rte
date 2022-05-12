@@ -1,0 +1,260 @@
+ (routes 
+  (resolution mm 100000)
+  (parser
+  )
+  (parser
+  )
+  (structure_out
+   (layer TOP (type signal)
+   )
+   (layer I1 (type signal)
+   )
+   (layer I2 (type signal)
+   )
+   (layer I3 (type signal)
+   )
+   (layer I4 (type signal)
+   )
+   (layer I5 (type signal)
+   )
+   (layer I6 (type signal)
+   )
+   (layer I7 (type signal)
+   )
+   (layer I8 (type signal)
+   )
+   (layer I9 (type signal)
+   )
+   (layer I10 (type signal)
+   )
+   (layer I11 (type signal)
+   )
+   (layer I12 (type signal)
+   )
+   (layer I13 (type signal)
+   )
+   (layer I14 (type signal)
+   )
+   (layer BOT (type signal)
+   )
+  )
+  (library_out
+  (padstack $VIA#0_SIGNAL
+   (shape (circ TOP 76200 0 0))
+   (shape (circ I1 76200 0 0))
+   (shape (circ I2 76200 0 0))
+   (shape (circ I3 76200 0 0))
+   (shape (circ I4 76200 0 0))
+   (shape (circ I5 76200 0 0))
+   (shape (circ I6 76200 0 0))
+   (shape (circ I7 76200 0 0))
+   (shape (circ I8 76200 0 0))
+   (shape (circ I9 76200 0 0))
+   (shape (circ I10 76200 0 0))
+   (shape (circ I11 76200 0 0))
+   (shape (circ I12 76200 0 0))
+   (shape (circ I13 76200 0 0))
+   (shape (circ I14 76200 0 0))
+   (shape (circ BOT 76200 0 0))
+  )
+  (padstack $VIA#0_POWER
+   (shape (circ TOP 76200 0 0))
+   (shape (circ I1 76200 0 0))
+   (shape (circ I2 76200 0 0))
+   (shape (circ I3 76200 0 0))
+   (shape (circ I4 76200 0 0))
+   (shape (circ I5 76200 0 0))
+   (shape (circ I6 76200 0 0))
+   (shape (circ I7 76200 0 0))
+   (shape (circ I8 76200 0 0))
+   (shape (circ I9 76200 0 0))
+   (shape (circ I10 76200 0 0))
+   (shape (circ I11 76200 0 0))
+   (shape (circ I12 76200 0 0))
+   (shape (circ I13 76200 0 0))
+   (shape (circ I14 76200 0 0))
+   (shape (circ BOT 76200 0 0))
+  )
+  (padstack PS4
+   (shape (rect TOP -127000 -127000 127000 127000))
+   (shape (rect I1 -127000 -127000 127000 127000))
+   (shape (rect I2 -127000 -127000 127000 127000))
+   (shape (rect I3 -127000 -127000 127000 127000))
+   (shape (rect I4 -127000 -127000 127000 127000))
+   (shape (rect I5 -127000 -127000 127000 127000))
+   (shape (rect I6 -127000 -127000 127000 127000))
+   (shape (rect I7 -127000 -127000 127000 127000))
+   (shape (rect I8 -127000 -127000 127000 127000))
+   (shape (rect I9 -127000 -127000 127000 127000))
+   (shape (rect I10 -127000 -127000 127000 127000))
+   (shape (rect I11 -127000 -127000 127000 127000))
+   (shape (rect I12 -127000 -127000 127000 127000))
+   (shape (rect I13 -127000 -127000 127000 127000))
+   (shape (rect I14 -127000 -127000 127000 127000))
+   (shape (rect BOT -127000 -127000 127000 127000))
+  )
+  )
+  (network_out
+   (Net #00002 
+   (rule
+   )
+   (wire (path BOT 101600  -10250000 7266000 -10250000 7265999 -10033000 7265999
+     -10033000 7266000 -9750000 7266000)
+    (connect (terminal pin SIM1-4) (terminal pin R1-1))
+   )
+   )
+   (Net #00005 
+   (rule
+   )
+   (wire (path BOT 101600  -9000000 6750000 -9525000 6750000 -9525000 8028000
+     -10250000 8028000)
+    (connect (terminal pin HCSRO4-1) (terminal pin SIM1-7))
+   )
+   )
+   (Net #00006 
+   (rule
+   )
+   (wire (path BOT 101600  -9000000 7004000 -9398000 7004000 -9398000 8282000
+     -10250000 8282000)
+    (connect (terminal pin HCSRO4-2) (terminal pin SIM1-8))
+   )
+   )
+   (Net #00007 
+   (rule
+   )
+   (wire (path BOT 101600  -10242000 4500000 -10242000 5016500 -10477500 5016500
+     -10477500 8536000 -10250000 8536000)
+    (connect (terminal pin PWM-1) (terminal pin SIM1-9))
+   )
+   )
+   (Net #00008 
+   (rule
+   )
+   (wire (path BOT 101600  -10250000 8790000 -10750000 8790000 -10750000 4500000)
+    (connect (terminal pin SIM1-10) (terminal pin PWM-0))
+   )
+   )
+   (Net #00009 
+   (rule
+   )
+   )
+   (Net #00010 
+   (rule
+   )
+   (wire (path BOT 101600  -8750000 8500000 -10033000 8500000 -10033000 9298000
+     -10250000 9298000)
+    (connect (terminal pin "SD CARD READER"-0) (terminal pin SIM1-12))
+   )
+   )
+   (Net #00011 
+   (rule
+   )
+   (wire (path BOT 101600  -8750000 9008000 -9546615 9008000 -9546615 9552000
+     -10250000 9552000)
+    (connect (terminal pin "SD CARD READER"-2) (terminal pin SIM1-13))
+   )
+   )
+   (Net #00012 
+   (rule
+   )
+   (wire (path BOT 101600  -8750000 9262000 -9080500 9262000 -9080500 9806000
+     -10250000 9806000)
+    (connect (terminal pin "SD CARD READER"-3) (terminal pin SIM1-14))
+   )
+   )
+   (Net #00013 
+   (rule
+   )
+   (wire (path BOT 101600  -8750000 8754000 -8509000 8754000 -8509000 10223500
+     -11774000 10223500 -11774000 9806000)
+    (connect (terminal pin "SD CARD READER"-1) (terminal pin SIM1-15))
+   )
+   )
+   (Net #00020 
+   (rule
+   )
+   )
+   (Net #00021 
+   (rule
+   )
+   (wire (path BOT 101600  -11774000 6758000 -10985500 6758000 -10985500 4191000
+     -9969500 4191000 -9969500 6758000 -10250000 6758000)
+    (connect (terminal pin SIM1-27) (terminal pin SIM1-2))
+   )
+   )
+   (Net #00028 
+   (rule
+   )
+   (wire (path BOT 101600  -11500000 4500000 -11500000 4064000 -8484000 4064000
+     -8484000 4500000)
+    (connect (terminal pin "POWER N"-0) (terminal pin POWER-0))
+   )
+   )
+   (Net #00034 
+   (rule
+   )
+   )
+   (Net #00037 
+   (rule
+   )
+   (wire (path BOT 101600  -9000000 7258000 -8509000 7258000 -8509000 7250000
+     -8250000 7250000)
+    (connect (terminal pin HCSRO4-3) (terminal pin "HCSR04 ON OFF"-1))
+   )
+   )
+   (Net GND 
+   (rule
+   )
+   (wire (path BOT 101600  -8255000 4254500 -7493000 4254500 -7493000 9906000
+     -8750000 9906000 -8750000 9770000)
+    (connect (terminal wire) (terminal pin "SD CARD READER"-5))
+   )
+   (wire (path BOT 101600  -11774000 6504000 -12008000 6504000 -12008000 4500000)
+    (connect (terminal pin SIM1-28) (terminal pin "POWER N"-1))
+   )
+   (wire (path BOT 101600  -8255000 4254500 -8255000 4762500 -8992000 4762500
+     -8992000 4500000)
+    (connect (terminal wire) (terminal pin POWER-1))
+   )
+   (wire (path BOT 101600  -9750000 6250000 -9750000 4191000 -8992000 4191000
+     -8992000 4500000)
+    (connect (terminal pin R1-0) (terminal pin POWER-1))
+   )
+   (wire (path BOT 101600  -9750000 6250000 -9750000 7012000 -10250000 7012000)
+    (connect (terminal pin R1-0) (terminal pin SIM1-3))
+   )
+   (wire (path BOT 101600  -9750000 6250000 -9461500 6250000 -9461500 6496000
+     -9000000 6496000)
+    (connect (terminal pin R1-0) (terminal pin HCSRO4-0))
+   )
+   (wire (path BOT 101600  -12008000 4500000 -12008000 3810000 -8255000 3810000
+     -8255000 4254500)
+    (connect (terminal pin "POWER N"-1) (terminal wire))
+   )
+   )
+   (Net VCC/VDD 
+   (rule
+   )
+   (wire (path BOT 101600  -8750000 9516000 -8064500 9516000 -8064500 6996000
+     -8250000 6996000)
+    (connect (terminal pin "SD CARD READER"-4) (terminal pin "HCSR04 ON OFF"-0))
+   )
+   (wire (path BOT 101600  -8250000 6996000 -8250000 4889500 -9500000 4889500
+     -9500000 4500000)
+    (connect (terminal pin "HCSR04 ON OFF"-0) (terminal pin POWER-2))
+   )
+   )
+   (Net {NC-1} 
+   (via PS4 -9500000 5250000 (net {NC-1} )
+    (type protect))
+   )
+   (Net {NC-2} 
+   (via PS4 -12250000 6250000 (net {NC-2} )
+    (type protect))
+   )
+   (Net {NC-3} 
+   (via PS4 -7750000 7500000 (net {NC-3} )
+    (type protect))
+   )
+  )
+ )

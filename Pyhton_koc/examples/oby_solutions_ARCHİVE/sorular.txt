@@ -1,0 +1,1 @@
+import ile ilgili bir kısıt varmı? örneğin "import hw2_part_a as * " deip devam edebiliyormuyuz yoksa her fonsiyonu her partta tekrar yazmak gerekiyor mu?

@@ -1,0 +1,13 @@
+speaker  1 features trained
+speaker  2 features trained
+speaker  3 features trained
+speaker  4 features trained
+
+
+
+Speaker  1  matches with speaker  1 
+Speaker  2  matches with speaker  2  
+Speaker  3  matches with speaker  3  
+Speaker  4  matches with speaker  3  
+
+Accuracy of result is  75.0 %
